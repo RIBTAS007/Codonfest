@@ -29,7 +29,7 @@ int32_t main()
 			}
 		}
 		for (int i = 0; i < n - 1; i++) {
-			// cout<<pos[i].F<<" "<<pos[i].S<<'\n';
+			// cout<<pos[i].F<<" "<<pos[i].S<<'\n'; this one is for checking only !!
 			if (s[i] == '(' && pos[i].S == pos[i + 1].S + 1) {
 				ans = true;
 			}
