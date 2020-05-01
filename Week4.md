@@ -19,7 +19,7 @@
 
 ### Questions
 
-# Easy
+### Easy
 
 * [Problem 1](https://www.codechef.com/problems/ALTARAY)
 * [Problem 2](https://www.codechef.com/problems/DELISH )
