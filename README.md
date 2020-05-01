@@ -25,8 +25,11 @@ Event Description : [Codonfest](https://skillshipfoundation.com/codonfest2020/)
 ***
 ## Syllabus and Problems
 
-[Cod{on}fest Week 1](Week1.html)|[Cod{on}fest Week 2](Week2.html)|[Cod{on}fest Week 3](Week3.html) | [Cod{on}fest Week 4](Week4.html)
---|--|--| --
+[Cod{on}fest Week 1](Week1.html)
+[Cod{on}fest Week 2](Week2.html)
+[Cod{on}fest Week 3](Week3.html) 
+[Cod{on}fest Week 4](Week4.html)
+
 *** 
 
 ![IMG_20200322_154726](https://user-images.githubusercontent.com/42711978/77247181-9caf2c80-6c54-11ea-8ba9-2d981e15f32f.jpg)
