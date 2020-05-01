@@ -2,6 +2,8 @@
 
 [SkillShip Foundation](https://skillshipfoundation.com/) along with [PyLadies Delhi](https://www.pyladies.com/) have organized its first ever 1.5 months mentorship program in competitive programming.
 
+![IMG_20200322_154726](codonfest.jpg)
+
 This program will consist of 2 phases.
 
 ## Learning phase :
@@ -35,7 +37,7 @@ Event Description : [Codonfest](https://skillshipfoundation.com/codonfest2020/)
 
 *** 
 
-![IMG_20200322_154726](https://user-images.githubusercontent.com/42711978/77247181-9caf2c80-6c54-11ea-8ba9-2d981e15f32f.jpg)
 
-***
+
+
  
