@@ -15,7 +15,7 @@
 
 ## Resources that can be referred
 
-* https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/ 
+* [HackerEarth Graphs](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/) 
 
 ### Questions
 
